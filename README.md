@@ -1,1 +1,1 @@
-This my first basic wb page  for practce
+This my first basic wb page  for practice
